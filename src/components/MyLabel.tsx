@@ -28,7 +28,7 @@ export interface MyLabelProps {
 }
 
 export const MyLabel = ({
-  label = 'No Label',
+  label = 'Label',
   size = 'normal',
   color = 'primary',
   allCaps = false,
